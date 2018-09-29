@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学生宿舍管理系统试运行", "学生宿舍管理系统试运行\学生宿舍管理系统试运行.vcxproj", "{5B40420B-7A6E-4214-A25C-3D479100F6EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B40420B-7A6E-4214-A25C-3D479100F6EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B40420B-7A6E-4214-A25C-3D479100F6EB}.Debug|Win32.Build.0 = Debug|Win32
+		{5B40420B-7A6E-4214-A25C-3D479100F6EB}.Release|Win32.ActiveCfg = Release|Win32
+		{5B40420B-7A6E-4214-A25C-3D479100F6EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

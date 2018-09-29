@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/7/16 11:55:58。
+     1>项目“C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\学生宿舍管理系统试运行\学生宿舍管理系统试运行.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\学生宿舍管理系统试运行.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Operation.cpp
+         Operation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\Debug\学生宿舍管理系统试运行.exe" /INCREMENTAL /NOLOGO odbc32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\Debug\学生宿舍管理系统试运行.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\Debug\学生宿舍管理系统试运行.lib" /MACHINE:X86 "Debug\学生宿舍管理系统试运行.res"
+         Debug\account.obj
+         Debug\addDlg.obj
+         Debug\changeInfo.obj
+         Debug\changePassword.obj
+         Debug\Operation.obj
+         Debug\Register.obj
+         Debug\stdafx.obj
+         Debug\student0.obj
+         "Debug\学生宿舍管理系统试运行.obj"
+         "Debug\学生宿舍管理系统试运行Dlg.obj"
+         学生宿舍管理系统试运行.vcxproj -> C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\Debug\学生宿舍管理系统试运行.exe
+     1>已完成生成项目“C:\Users\HU\Documents\Visual Studio 2012\Projects\学生宿舍管理系统试运行\学生宿舍管理系统试运行\学生宿舍管理系统试运行.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.60
